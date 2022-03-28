@@ -1,2 +1,2 @@
 # MamarBari
-Why should meeting hosts be the only ones busy?
+An Automation bot for Zoom Video Conferencing.
