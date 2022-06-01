@@ -1,3 +1,10 @@
+/*
+ * Background Process for Mamarbari.
+ * Reads schedule and launches meeting in time
+ * A few features could not be implemented like overriding fullscreen windows,
+ * direct launch (without the help of a third party software, i.e. Internet Browser) etc.
+ */
+
 #include "resource.h"
 #include <bits/stdc++.h>
 #include <windows.h>
