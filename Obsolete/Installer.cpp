@@ -1,3 +1,12 @@
+/*
+ * Installer Program for Mamarbari.
+ * The package comes with a products directory containing the main executables, assist files etc.
+ * This program moves the file to a desired directory.
+ * It also adds the runtime daemon program to startup registry, to ensure continuity.
+ * This is just a test program to explore how installation works.
+ * In newer programs I use Innosetup Compiler for making the installer and uninstaller programs
+ */
+
 #include "resource.h"
 
 #include <bits/stdc++.h>
