@@ -92,6 +92,7 @@ LRESULT CALLBACK windpro (HWND h, UINT u, WPARAM w, LPARAM l)
                                 (HMENU)ID_CANCEL, NULL, NULL);
             }
             break;
+        
         case WM_COMMAND:
             switch (LOWORD (w))
             {
