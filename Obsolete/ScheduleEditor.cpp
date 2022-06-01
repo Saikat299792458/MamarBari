@@ -1,5 +1,8 @@
-/* This code is not only ugly, but also toxic.
- * More formatting and abstraction is required. */
+/* A GUI editor for schedule.
+ * That's it!
+ * This code is not only ugly, but also toxic.
+ * More formatting and abstraction is required. 
+ */
 
 #include "resource.h"
 
